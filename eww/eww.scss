@@ -1,0 +1,52 @@
+* {
+  all: unset;
+  font-family: "CozetteVector", monospace;
+}
+
+.bar {
+  background-color: #3C3633;
+  color: #FAEED1;
+  padding: 10px;
+}
+
+.sidestuff slider {
+  all: unset;
+  color: #FFAEBC;
+}
+
+.metric scale trough highlight {
+  all: unset;
+  background-color: #3C3633;
+  color: #000000;
+  border-radius: 10px;
+}
+.metric scale trough {
+  all: unset;
+  background-color: #4e4e4e;
+  border-radius: 50px;
+  min-height: 3px;
+  min-width: 50px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.metric scale trough highlight {
+  all: unset;
+  background-color: #FDF0D1;
+  color: #000000;
+  border-radius: 10px;
+}
+.metric scale trough {
+  all: unset;
+  background-color: #4e4e4e;
+  border-radius: 50px;
+  min-height: 3px;
+  min-width: 50px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.label-ram {
+  font-size: large;
+}
+.workspaces button:hover {
+  color: #FDF0D1;
+}
